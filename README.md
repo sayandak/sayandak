@@ -1,7 +1,5 @@
 <div align="center">
   # Hi there! I'm Sayand 👋
-  
-  <img src="https://media.giphy.com/media/Q8P7b7hPj75U3z31R1/giphy.gif" alt="Coding GIF" width="300"/>
 </div>
 
 ---
@@ -13,7 +11,7 @@ I am a **MERN Stack Developer** with a passion for building robust and scalable 
 - 🔭 I’m currently focused on advanced **Mapbox** integrations in React applications.
 - 🌱 I’m currently learning deeper optimization techniques for **PostGIS** with PostgreSQL.
 - 👯 I’m looking to collaborate on open-source projects related to **geospatial data visualization**.
-- ✉️ How to reach me: [Your Email/LinkedIn/Twitter Link]
+- ✉️ How to reach me: sayandak.dev@gmail.com
 
 ### 🛠️ Tech Stack & Tools
 
@@ -38,10 +36,3 @@ I am a **MERN Stack Developer** with a passion for building robust and scalable 
   </tr>
 </table>
 
-### 📈 GitHub Stats
-
-<div align="center">
-  [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</div>
